@@ -1,0 +1,23 @@
+courseId, courseTitle, discipline, numOfHours, numOfRemainingGroups
+420A07AS, Calculus, AI02, 60, 1
+420JV4AS, Concepts et programmation objet I, I-2, 75, 1
+420J03AS, Math matiques appliqu es aux jeux vid o, I-7, 60, 1
+420CT1AS, Outils informatiques, IN-1, 45, 1
+420AL2AS, Administration de syst mes d'exploitation libres, IN-16, 60, 1
+420NR1AS, Notions de base de routage et commutation, IN-18, 75, 1
+420NR1AS, Routing and Switching Essentials, IN-18, 75, 1
+420RC2AS, Routage et commutation de r seaux hi rarchiques, IN-18, 75, 1
+420225AS, Architecture des ordinateurs, IN-2, 75, 1
+420SE2AS, Operating Systems and Networking, IN-2, 60, 1
+420SE2AS, Syst me d'exploitation et r seautique, IN-2, 60, 2
+420EX2AS, Installation et configuration d'un syst me d'exploitation se, IN-20, 60, 1
+420AP1AS, Algorithmes et programmation, IN-3, 90, 1
+420CT2AS, Concepts de la programmation orient e objet, IN-4, 90, 1
+420CT2AS, Concepts de la programmation orient e objet, IN-4, 90, 2
+420BD1AS, Bases de donn es I, IN-5, 90, 1
+420BD1AS, Databases I, IN-5, 90, 1
+420BD1AS, Bases de donn es I, IN-5, 90, 2
+420DW1AS, Introduction au d veloppement web, IN-6, 45, 1
+420DW2AS, Web Client Development, IN-6, 90, 1
+420DW2AS, D veloppement web client, IN-6, 90, 2
+420J18AS, Syst me d'information et m thodologie de projet I, IN-8, 90, 1
